@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://ghost-danieledamicotech-383068d95836.herokuapp.com",
+    "contentApiKey": "783712ec48e0acb8b3fe3a7996"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://ghost-danieledamicotech-383068d95836.herokuapp.com",
+    "contentApiKey": "783712ec48e0acb8b3fe3a7996"
   }
 }
